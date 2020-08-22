@@ -1,7 +1,7 @@
 <img align="right" src="https://media.giphy.com/media/lTRUNQrthgIAGo5xvO/giphy.gif" width="200">
 
 
-## Hi there, I`am Carine Neris 👋
+## Hi there, I'm Carine Neris 👋
 
 
 
