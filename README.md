@@ -8,7 +8,7 @@
 
 ### ⚡️ About Me
 - <em>Pronouns: She/her, Ela/Dela</em>
-- I'm a Computer Science Student 
+- Computer Science Student 
 - Web Developer
 
 
